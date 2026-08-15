@@ -86,9 +86,6 @@ Currently exploring and developing projects related to Artificial Intelligence, 
 
 My goal is to become a skilled **AI Developer** and build useful, intelligent, and real-world software solutions.
 
----
-
-## 📊 GitHub
 
 ---
 
